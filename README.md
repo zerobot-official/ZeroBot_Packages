@@ -1,6 +1,7 @@
 # ZeroBot
 
 ZeroBot is a powerful suite of security and marketing tools designed to help website owners manage their traffic efficiently.
+
 Whether you want to block unwanted bots, filter ad traffic, or shorten URLs, ZeroBot has you covered.
 
 # Features
