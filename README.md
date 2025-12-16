@@ -33,7 +33,7 @@ Whether you want to block unwanted bots, filter ad traffic, or shorten URLs, Zer
 
 # Documentation :
 
-For more details and setup instructions, you can read our main documentation here : https://zerobot.info/documentation
+For more details and setup instructions, you can read our main documentation here : https://docs.zerobot.info/
 
 # Installation :
 
